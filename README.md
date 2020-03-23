@@ -16,9 +16,11 @@ ryanInf版本与ryanlnf版本存在一些小问题，进行了修复，以及个
 ## 2. 说明
 Time-NLP的python3版本，由于原作者sunfiyes的是python2版本，无法在python3上使用，故ryanlnf修改部分代码，使其可在Python3上使用，但运行发现存在一些bug，并进行了修复。
 
-- 原项目地址：https://github.com/sunfiyes/Time-NLPY  
+- Python2版本：https://github.com/sunfiyes/Time-NLPY  （原始）
 
-- Python3项目地址：https://github.com/ryanInf/Time-NLPY
+- Python3版本：https://github.com/ryanInf/Time-NLPY
+- Java版本：https://github.com/shinyke/Time-NLP
+- PHP版本：https://github.com/crazywhalecc/Time-NLP-PHP
 
 ## 3. 安装方式  
 > - cd到当前目录
@@ -35,8 +37,6 @@ Time-NLP的python3版本，由于原作者sunfiyes的是python2版本，无法�
 -  时间量（timedelta，表示时间的增量的时间描述）; 
 
 - 时间区间（timespan，有具体起始和结束时间点的时间区间）。
-
-- 
 
   
 
