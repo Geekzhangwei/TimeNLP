@@ -14,7 +14,7 @@ ryanInf版本与ryanlnf版本存在一些小问题，进行了修复，以及个
 > （3）新增关键词以及索引位置的提取，具体见TimeNormalizer.py
 
 ## 2. 说明
-Time-NLP的python3版本，由于原作者sunfiyes的是python2版本，无法在python3上使用，故ryanlnf修改部分代码，使其可在Python3上使用，但运行发现存在一些bug，并进行了修复。
+Time-NLP的python3版本，由于原作者sunfiyes的是python2版本，无法在python3上使用，故ryanlnf修改部分代码，使其可在Python3上使用，但运行发现存在一些bug，本人进行了修复，可能仍存在一些bug。
 
 - Python2版本：https://github.com/sunfiyes/Time-NLPY  （原始）
 
