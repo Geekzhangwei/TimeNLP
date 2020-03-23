@@ -23,5 +23,6 @@ if __name__ == "__main__":
         query = input("\nINPUT : ")
         ss = time.time()
         # target为待分析语句, timeBase为基准时间, 默认是当前时间
-        print("OUTPUT: ", tn.parse(target=query, timeBase="2019-02-03"))
+        # print("OUTPUT: ", tn.parse(target=query, timeBase="2019-02-03"))
+        print("OUTPUT: ", tn.parse(target=query))
         print("TIME  : {0}ms!".format(round(1000 * (time.time() - ss), 3)))
