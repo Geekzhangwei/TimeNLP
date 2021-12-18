@@ -13,8 +13,8 @@
 import time
 import warnings
 from TimeNormalizer import TimeNormalizer
-from arrow.factory import ArrowParseWarning
-warnings.simplefilter("ignore", ArrowParseWarning)
+# from arrow.factory import ArrowParseWarning
+# warnings.simplefilter("ignore", ArrowParseWarning)
 
 
 if __name__ == "__main__":
